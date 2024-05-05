@@ -14,6 +14,11 @@ Beginner Friendly: Codebase structured to be easily understandable for newcomers
 ### Getting Started
 
 To get started with this project, clone the repository and import it into Android Studio. Ensure you have the latest version of Android Studio and the Kotlin plugin installed for the best experience.
-Contributions
+
+### Clone the repository to your local machine:
+
+    https://github.com/Aban3049/JetAuthCompose.git
+
+## Contribution
 
 Contributions are welcome! If you have any improvements or bug fixes, please feel free to fork the repository and submit a pull request.
